@@ -1,0 +1,140 @@
+Products Performance Analysis
+Profitability & Strategic Product Evaluation
+
+This section evaluates product-level performance to identify profitability drivers, revenue concentration, margin leaders, and underperforming segments requiring corrective action.
+
+Overview
+
+The analysis examines performance across Category and Sub-Category levels using:
+
+    • Total Revenue
+    • Total Profit
+    • Profit Margin
+
+The portfolio includes a mix of:
+
+    • High-volume revenue drivers
+    • High-margin products
+    • Loss-generating items
+
+Category-Level Profitability
+🟢 Most Profitable Category
+
+Technology
+
+    • Strong overall revenue and profit contribution
+    • Driven primarily by Phones, Copiers, and Accessories
+    • Represents the core profitability engine of the company
+
+Technology clearly dominates profit generation, indicating heavy reliance on high-value electronic products.
+
+Most Profitable Sub-Category per Category
+
+Furniture: Chairs
+    • Highest total profit despite moderate margin
+
+Office Supplies: Binders
+    • Strong balance between volume and profitability
+
+Technology: Copiers
+    • Highest total profit contribution
+    • Strong margin performance
+
+Highest Margin Sub-Categories 🟢
+
+    • Labels
+    • Paper
+    • Envelopes
+    • Copiers
+
+These products generate high profit per sales dollar and represent scalable profitability opportunities.
+
+Loss-Making Sub-Categories 🔴 (Immediate Review Required)
+
+    • Tables (Margin: -0.084)
+    • Bookcases (Margin: -0.030)
+    • Supplies (Margin: -0.025)
+
+These segments are destroying value and require:
+
+    • Pricing review
+    • Cost restructuring
+    • Supplier renegotiation
+    • Potential discontinuation
+
+⚠ Risk Segment
+
+Machines (Margin: 0.018)
+
+    • Extremely thin profitability buffer
+    • Highly sensitive to discounting or cost fluctuations
+    • Requires pricing optimization and margin protection strategy
+
+Machines operate close to break-even and expose the company to profit volatility.
+
+Strategic Product Classification
+
+Products were segmented based on comparison against average Units Sold and Average Profit Margin.
+
+Classification Logic
+
+    • Star → High Volume & High Margin
+    • Need Optimization → High Volume & Low Margin
+    • Premium → Low Volume & High Margin
+    • Risk → Low Volume & Low Margin
+
+Need Optimization – High Volume, Low Margin Products
+
+Examples include:
+
+    • Logitech P710e Mobile Speakerphone — Margin: 17.7%
+    • KI Adjustable-Height Table — Margin: -5.5%
+    • Storex Dura Pro Binders — Margin: 18.1%
+    • GBC Transparent Covers — Margin: 6.3%
+    • Situations Folding Chairs — Margin: 6.4%
+
+Insight
+
+    • Strong demand but below-average profitability
+    • One product generating losses despite high sales volume
+    • Margin improvement here can significantly boost overall profit
+
+Revenue Concentration Analysis
+
+To validate category-level insights, product-level revenue concentration was examined.
+
+Top Revenue-Generating Products
+
+    • Canon imageCLASS 2200 Advanced Copier — 61,599.83
+    • Fellowes PB500 Binding Machine — 27,453.38
+    • Cisco TelePresence System EX90 — 22,638.48
+
+Insight
+
+Revenue concentration is evident. The top product significantly outperforms others, confirming dependency on high-value Technology products.
+
+Lowest Revenue-Generating Products
+
+    • Eureka Disposable Bags — 1.62
+    • Avery 5 — 5.76
+    • Xerox 20 — 6.48
+
+Insight
+
+These products contribute negligible revenue and should be evaluated for operational efficiency and inventory justification.
+
+Overall Strategic Interpretation
+
+The company’s profitability is heavily dependent on Technology, particularly Copiers and Phones.
+
+While several sub-categories demonstrate strong margin performance, Furniture contains structural loss segments requiring correction.
+
+Revenue concentration around a limited number of high-value products increases performance sensitivity to demand fluctuations.
+
+Key Recommendations
+
+    • Expand investment in high-margin segments (Copiers, Paper, Labels)
+    • Optimize pricing strategy for volume-driven products (Chairs, Phones)
+    • Immediately address loss-making items (Tables, Bookcases)
+    • Protect thin-margin segments (Machines) from aggressive discounting
+    • Reassess low-revenue products for potential discontinuation

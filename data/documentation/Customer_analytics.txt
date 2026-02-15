@@ -1,0 +1,96 @@
+Customer & Regional Performance Analysis
+Superstore Business Evaluation
+
+This section evaluates customer segments and regional performance to identify revenue drivers, profitability efficiency, and structural weaknesses across the business.
+
+Segment Analysis
+
+Customer segments were evaluated using:
+
+    • Total Sales
+    • Total Profit
+    • Profit Margin
+    • Average Revenue per Customer
+    • Average Order Value
+
+Key Findings
+🟢 Consumer Segment
+
+    • Highest total revenue contribution
+    • Profit Margin: 11.55% (Lowest among segments)
+
+Consumer is the primary revenue engine but operates with tighter margins, suggesting higher discount sensitivity or cost pressure.
+
+🟡 Corporate Segment
+
+    • Balanced revenue and profitability
+    • Profit Margin: 13.08%
+
+Corporate represents a stable growth opportunity with sustainable profitability performance.
+
+🟢 Home Office Segment
+
+    • Highest Profit Margin: 14.03%
+    • Lower overall sales volume
+
+Home Office demonstrates strong pricing efficiency and margin quality despite smaller scale.
+
+Segment Strategic Insight
+
+Revenue is primarily driven by Consumer volume, while profitability efficiency is strongest in Home Office.
+Corporate offers the most balanced expansion opportunity between growth and margin optimization.
+
+Regional Performance Overview
+
+Regional performance was evaluated using total sales, total profit, profit margin, customer count, and revenue efficiency indicators.
+
+1️⃣ West Region – Primary Growth Engine
+
+    • Total Sales: 2,104,438.82
+    • Total Profit: 269,936.40
+    • Profit Margin: 12.83%
+    • Customers: 686
+    • Avg Revenue per Customer: 3,067.70
+
+West dominates both revenue and profit contribution.
+Its large customer base combined with solid margin performance indicates operational strength and strong market penetration.
+
+West is the company’s core revenue and profit driver.
+
+2️⃣ South Region – Margin Optimization Opportunity
+
+    • Total Sales: 138,571.71
+    • Total Profit: 10,007.48
+    • Profit Margin: 7.22%
+    • Customers: 68
+
+South generates moderate revenue but operates at significantly lower margins compared to other regions.
+
+This suggests pricing inefficiencies, higher costs, or aggressive discounting strategies reducing profitability.
+
+3️⃣ East Region – Profitability Efficiency Leader
+
+    • Total Sales: 52,676.75
+    • Total Profit: 6,973.48
+    • Profit Margin: 13.24% (Highest)
+    • Customers: 36
+
+Although East operates at smaller scale, it achieves the highest margin performance.
+
+This indicates strong pricing efficiency and cost control. Expanding customer acquisition in this region could significantly improve overall profitability.
+
+4️⃣ Central Region – Structural Weakness
+
+    • Total Sales: 1,513.48
+    • Total Profit: -100.80
+    • Profit Margin: -6.66%
+    • Customers: 3
+
+Central is not simply underperforming — it is severely underpenetrated.
+
+With only three customers and negative margin, the region lacks sufficient commercial presence to sustain operations.
+
+Immediate strategic review is required:
+    • Market expansion investment
+    • Operational restructuring
+    • Or potential exit strategy

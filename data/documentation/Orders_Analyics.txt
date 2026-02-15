@@ -1,0 +1,148 @@
+Orders Time & Shipping Analysis Report
+
+This analysis evaluates order growth over time and shipping performance efficiency across the dataset.
+
+Order Volume Trend (2014–2017)
+
+Order volume shows consistent year-over-year growth:
+
+2014: 969 orders
+
+2015: 1,038 orders
+
+2016: 1,315 orders
+
+2017: 1,687 orders
+
+There is a clear upward trend in total orders, with significant acceleration after 2015.
+Between 2014 and 2017, order volume increased by nearly 74%, indicating strong business expansion and higher operational pressure over time.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Shipping Time Distribution
+
+Shipping duration analysis reveals the following concentration:
+
+2,303 orders were delivered in 3 days
+
+1,084 orders in 4 days
+
+596 orders in 5 days
+
+309 orders in 7 days
+
+The majority of orders (3–4 days) suggest stable and consistent shipping performance.
+However, a smaller segment (5–7 days) indicates potential delays or lower efficiency in certain cases.
+
+Overall, shipping operations appear structured around a 3–4 day delivery window, with limited extreme delays.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Extreme Delays (Slowest Orders)
+
+The five slowest orders recorded a shipping duration of 7 days:
+
+CA-2014-100363
+
+CA-2014-103807
+
+CA-2014-104976
+
+CA-2014-105270
+
+CA-2014-105872
+
+These cases represent the maximum observed delay in the dataset.
+While 7 days is not critically high, it stands above the dominant 3–4 day delivery window and may indicate operational inefficiencies in specific scenarios.
+
+Fastest Orders (Same-Day Shipping)
+
+The five fastest orders were delivered in 0 days, meaning same-day shipping:
+
+CA-2014-105249
+
+CA-2014-105984
+
+CA-2014-106719
+
+CA-2014-108903
+
+CA-2014-110639
+
+Same-day deliveries demonstrate the system’s ability to process and dispatch orders immediately under certain conditions.
+Although not the majority, these cases reflect high operational capability when required.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Shipping Performance by Ship Mode
+
+Shipping time varies clearly across delivery methods:
+
+Same Day → Avg: 0 days | 264 orders
+
+First Class → Avg: 2 days | 787 orders
+
+Second Class → Avg: 3 days | 964 orders
+
+Standard Class → Avg: 5 days | 2,994 orders
+
+Standard Class represents the majority of shipments (~60%+ of total orders), making it the backbone of operations.
+Faster modes (Same Day & First Class) serve a smaller but strategically important segment.
+
+Shipping Time Stability (Min–Max Analysis)
+
+Evaluating consistency across shipping modes:
+
+Same Day: 0–1 days (Avg: 0)
+
+First Class: 1–4 days (Avg: 2)
+
+Second Class: 1–5 days (Avg: 3)
+
+Standard Class: 3–7 days (Avg: 5)
+
+The shipping structure appears clearly tiered and logically distributed.
+Each mode operates within an expected delivery range, with no extreme outliers beyond 7 days.
+
+Standard Class shows the widest range (3–7 days), which is expected given its high volume. However, variability here has the greatest operational impact due to its dominance in total orders.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Monthly Workload Pressure Analysis
+
+The overall monthly average across the dataset is 104 orders per month.
+Based on deviation from this average, months were classified into three categories:
+
+Normal → Below average
+
+Compressed → Around or slightly above average
+
+Very Compressed → 20%+ above average
+
+Key Observations:
+
+A recurring seasonal spike appears consistently in September, November, and December across multiple years.
+
+The highest pressure period occurred in November 2017 (261 orders) — more than double the early 2014 monthly levels.
+
+From 2016 onward, compressed months became more frequent, indicating rising operational strain.
+
+2017 shows the most intense and sustained workload, with multiple consecutive high-pressure months.
+
+This pattern strongly suggests seasonal demand concentration toward the end of each year, likely requiring operational scaling during Q4.
+
+Executive Summary
+
+Between 2014 and 2017, the business experienced significant growth in order volume, increasing by approximately 74%.
+
+Shipping performance is generally stable, with the majority of deliveries completed within 3–4 days. Standard Class dominates total shipments and therefore carries the greatest operational impact.
+
+Seasonal pressure is clearly concentrated in Q4 (September–December), with peak intensity observed in 2017.
+
+Overall, the logistics structure appears well-tiered and consistent, but high-volume months — especially in Q4 — require careful capacity planning to maintain delivery efficiency.
+
+
+
